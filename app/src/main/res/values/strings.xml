@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">Assesment 1</string>
+    <string name="app_name">Drinking Orders</string>
+    <string name="drinking_intro">Welcome to the Drink Order Application. \n\n Try now!</string>
+
+    <string name="es_teh">Ice Tea</string>
+    <string name="nutrisari">Nutrisary</string>
+    <string name="kopi">Coffe</string>
+
+    <string name="jumlah_pesanan">Number of orders </string>
+    <string name="harga">Price</string>
+    <string name="hitung">Count</string>
+
+    <string name="total_harga">Total Price: %1$.2f</string>
+    <string name="input_invalid">Cant Empty</string>
+
+    <string name="tentang_aplikasi">About the Application.</string>
+    <string name="copyright">Drinking Orders is a drinking android application that makes it easier for someone to order drinking the price of a drink.
+        \n\n This application was created for Mobpro 1 Assessment.
+        \n\n Copyright © 2024 Ryan Gusman Yoel Banjarnahor.
+        \n All rights reserved</string>
+
+    <string name="kembali">Back</string>
+    <string name="bagikan">Share</string>
+    <string name="bagikan_text">Warung Lapo\nQuantity : %1$s\nPrice : %2$s\nDrinkList : %3$s\nTotal Price : %4$.2f</string>
+    <string name="atur_ulang">Reset</string>
 </resources>

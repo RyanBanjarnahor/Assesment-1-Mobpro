@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Drinking Orders</string>
+    <string name="drinking_intro">Selamat Datang di Aplikasi Pesan Minuman. Coba sekarang!</string>
+    <string name="es_teh">Es Teh</string>
+    <string name="nutrisari">Nutrisari</string>
+    <string name="kopi">Kopi</string>
+
+    <string name="jumlah_pesanan">Jumlah Pesanan</string>
+    <string name="harga">Harga</string>
+    <string name="hitung">Hitung</string>
+
+    <string name="total_harga">Total Harga:  %1$.2f</string>
+    <string name="input_invalid">Tidak boleh kosong</string>
+
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">"Pesan minum adalah aplikasi android yang memudahkan seseorang untuk memesan minuman dengan harga yang terjangkau.
+        \n Aplikasi ini dibuat untuk Assesment  Mobpro 1
+        \n Copyright © 2024 Ryan Gusman Yoel Banjarnahor.
+        \n All rights reserved "</string>
+
+    <string name="kembali">Kembali</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_text">Warung Lapo\nJumlah : %1$s\nHarga : %2$s\nDrinkList : %3$s\nTotalHarga : %4$.2f</string>
+    <string name="atur_ulang">Atur Ulang</string>
+</resources>
